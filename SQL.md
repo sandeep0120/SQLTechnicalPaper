@@ -8,7 +8,9 @@ SQL (Structured Query Language) is a standardized programming language that's us
 ### Introduction:-
 
  SQL commands are divided into several different types, among them data manipulation language (DML) and data definition language (DDL) statements, transaction controls and security measures. The DML vocabulary is used to retrieve and manipulate data, while DDL statements are for defining and modifying database structures. The transaction controls help manage transaction processing, ensuring that transactions are either completed or rolled back if errors or problems occur. The security statements are used to control database access as well as to create user roles and permissions. 
-SQL syntax is the coding format used in writing statements. ![Build Status](https://cdn.ttgtmedia.com/rms/editorial/sSQLServer_Figure1_082516_desktop.png) Above figure shows an example of a DDL statement written in Microsoft's T-SQL to modify a database table in SQL Server 2016:
+SQL syntax is the coding format used in writing statements. ![Build Status](https://cdn.ttgtmedia.com/rms/editorial/sSQLServer_Figure1_082516_desktop.png) 
+
+Above figure shows an example of a DDL statement written in Microsoft's T-SQL to modify a database table in SQL Server 2016:
 
 ### Commands:- 
 
